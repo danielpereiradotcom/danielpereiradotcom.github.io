@@ -1,1 +1,36 @@
-theme: jekyll-theme-cayman
+# site settings
+title: DanielPereira.com
+subtitle: content for information lovers
+email: dspereira@gmail.com
+description: A creative data driven Business Analyst based in Dublin.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Dan Pereira
+street_address: null
+city: Dublin
+state: null
+zip_code: null
+country: Ireland
+phone: null
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/danielpereiradotcom
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com/dspereira
+linkedin_url: https://ie.linkedin.com/in/dspereira
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/dspereira
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
