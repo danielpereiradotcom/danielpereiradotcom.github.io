@@ -2,7 +2,7 @@
 layout: page
 title: Hire Me
 description: Let's work together.
-image: null
+image: assets/images/daniel/IMG_20180707_201100.jpg
 nav-menu: true
 show_tile: true
 ---

@@ -3,6 +3,7 @@ layout: post
 title: CV
 description: My super power is help <b>Business</b> to understand the <b>Developers</b> and facilitate Developers to understand the <b>Requirements</b> to build software that matches their <u>vision</u> and <u>strategy</u>.
 image: null
+image_tile: assets/images/places/IMG_20180420_125031.jpg
 nav-menu: true
 show_tile: true
 ---
@@ -11,9 +12,9 @@ show_tile: true
 <section id="zero">
 	<div class="box alt">
 		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/daniel/IMG_20160716_191946.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/places/IMG_20170503_201158.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="assets/images/daniel/IMG_20180419_223030.jpg" alt="" /></span></div>
 		</div>
 	</div>
 	<div class="inner">
