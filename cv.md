@@ -1,20 +1,22 @@
 ---
 layout: post
 title: CV
-description: My super power is help <b>Business</b> to understand the <b>Developers</b> and facilitate Developers to understand the <b>Requirements</b> to build software that matches their <u>vision</u> and <u>strategy</u>.
+description: My super power is help <b>Business</b> to understand the <b>Developers</b> and facilitate developers to understand the <b>requirements</b> to build a software that matches their <u>vision</u> and <u>strategy</u>.
 image: null
-image_tile: assets/images/places/IMG_20180420_125031.jpg
+image_tile: assets/images/daniel/IMG_20190911_171200.jpg
 nav-menu: true
 show_tile: true
 ---
 
-<!-- One -->
+
+<!-- Zero -->
 <section id="zero">
 	<div class="box alt">
-		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="assets/images/daniel/IMG_20160716_191946.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/places/IMG_20170503_201158.jpg" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="assets/images/daniel/IMG_20180419_223030.jpg" alt="" /></span></div>
+		<div class="row 100% uniform">
+			<div class="3u"><span class="image fit"><img src="assets/images/daniel/IMG_20190731_152606.jpg" alt="Daniel Pereira photo 1" /></span></div>
+			<div class="3u"><span class="image fit"><img src="assets/images/daniel/IMG_20180828_173556.jpg" alt="Daniel Pereira photo 2" /></span></div>
+			<div class="3u"><span class="image fit"><img src="assets/images/daniel/IMG_20190420_144920.jpg" alt="Daniel Pereira photo 3" /></span></div>
+			<div class="3u"><span class="image fit"><img src="assets/images/daniel/IMG_20190911_171200.jpg" alt="Daniel Pereira photo 4" /></span></div>
 		</div>
 	</div>
 	<div class="inner">
@@ -28,7 +30,7 @@ show_tile: true
 		<header class="major">
 			<h2>Overview</h2>
 		</header>
-		<p>I am an IT professional with 18 years of experience and last 12 years dedicated to roles such as Business Analyst, Project Manager, Scrum Master and Data Analyst.</p>
+		<p>I'm an experienced IT professional, over 17 years of experience, with last 12 years dedicated to multifaceted roles such as Business Analyst, Project Manager, Scrum Master and Data Analyst.</p>
 	</div>
 </section>
 
@@ -39,11 +41,11 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Agile guy for transformation of Model Risk requirements</h3>
+					<h3>Agility on risk analysis requirements</h3>
                     <h4>2016 ~ present</h4>
 				</header>
-				<p>Using Agile and Continuous Development methodologies, I help the Risk Management team to develop a solution that controls Risk Models, Risk Analysis and Regulatory documents.<br/>
-                Super power techniques of requirements gathering from US-based stakeholders, analysis, and review to be developed by in-house Dev team and liaise with off-shore QA India-based testers.</p>
+				<p>As part of the Model Risk Management squad, we develop a solution that controls and analyse the risk of a portfolio of models and regulatory documents.<br/>
+                I use my super power to gather requirements from stakeholders and transform it to be developed by in-house team.</p>
 			</div>
 		</div>
 	</section>
@@ -51,12 +53,13 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The guy who talks about Data Migration and BI reports</h3>
+					<h3>The Migration Man in action</h3>
                     <h4>2015</h4>
 				</header>
-				<p>We have migrated Core Banking system to Temenos T24 full-stack application.<br/>
-                Using range of powers to help Risk team on Liquidity analysis, Mortgage team to be complaint with regulations and SMEs to document better requirements.<br/>
-                Back to office I was responding to both PM Commitee and Delivery Manager.</p>
+				<p>As a consultant for the Change Management Team, I worked to gather relevant requirements and facilitate the migration of the core banking system to Temenos T24 full-stack application.<br/>
+                Fires coming from everywhere but I was responding to both PM Commitee and Delivery Manager.<br/>
+				Happy to help the Risk team on liquidity analysis and the Consumer Finance and Mortgage teams to build their own BI reports.<br/>
+                </p>
 			</div>
 		</div>
 	</section>
@@ -64,11 +67,12 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The minimal valuable product requirements extractor</h3>
+					<h3>The user experience builder</h3>
                     <h4>2015</h4>
 				</header>
-				<p>Do you know BDD? It is the Behaviour-Driven Development part of SDLC methodologies, a way to write testable requirements.<br/>
-                We have created the base mobile app (iOS) that in-branch staff uses to advise on consumer banking services.</p>
+				<p>I was part of a team behind the development of the Customer Advisory in-branch app (for iOS) where I was responsible for the user experience and prototype on mobile.<br/> 
+				To bring the team together, I helped with the adoption of the Behavioural Driven Development (BDD) as the SDLC methodology.  
+				</p>
 			</div>
 		</div>
 	</section>
@@ -79,8 +83,8 @@ show_tile: true
 					<h3>The telco builder</h3>
                     <h4>2012</h4>
 				</header>
-				<p>As a Head of Development, Business Analyst, Developer, IT Support and almost the pizza guy, I helped the company with upscale business and products. Led a team of five developers, facilitating Agile development with SCRUM techniques, minimizing impediments and resolving support issues.
-                I built the infrastructure for voice based premium call services.</p>
+				<p>My role was to upscale business and products. I led a team of five developers, facilitating agile software development with Scrum techniques, minimizing impediments and resolving support issues.<br/> 
+				I was known by many names such as the Head of Development, Business Analyst, Developer, IT Support and the pizza guy, but the most important was that I architected, designed and built the infrastructure to support a premium rate VoIP call services.</p>
 			</div>
 		</div>
 	</section>
@@ -91,7 +95,8 @@ show_tile: true
 					<h3>Developer, Developer, Developer</h3>
                     <h4>2011</h4>
 				</header>
-				<p>I used to be an IoT Developer before it be cool. I have worked on integration of 200 CCTV and fire alarms into a centralized application.</p>
+				<p>I worked as a Software Engineer in a startup team which became one of the fastest-growing software integration companies in Ireland in 2012.<br/>
+				Before the mainstream I used to be an IoT Developer. Firefighter, I worked on integration of 200 CCTV and fire alarms into a centralized application.</p>
 			</div>
 		</div>
 	</section>
@@ -102,7 +107,8 @@ show_tile: true
 					<h3>The 'shake it up' boy</h3>
                     <h4>2010</h4>
 				</header>
-				<p>Consultant focused to review Sales and Franchises business model. Coordinated regularly project states (phase-in, phase-out, training and ongoing) with the Board.</p>
+				<p>As a consultant, my role was to improve the sales process and post-sales installations. Prepared high-level business projects focused on KPIs, milestones and RoI with prospect to sell out the company in future.<br/>
+				Working with PowerBI and Microsoft Dynamics, for strategic analysis of issues, marketing trends, call records and competitive landscape to maximize business efficiency.</p>
 			</div>
 		</div>
 	</section>
@@ -110,11 +116,11 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The Analyst that talks about code</h3>
+					<h3>The business geek pro</h3>
                     <h4>2006</h4>
 				</header>
-				<p>IT projects can vary so my role as well. Loved challenges. From coder in Java and C# to BPM (Business Process Manager) guy and Pre-Sales Project Manager. 
-                From Tech to Business. I have used all powers as former Developer to became an upper class Requirements Analyst.</p>
+				<p>IT projects can vary so my role as well. Loved challenges. From develop in Java and C# to BPM (Business Process Management) and Pre-Sales Project Manager. 
+                I have used my super powers to build a bridge between the developers and business stakeholders without compromise operations.</p>
 			</div>
 		</div>
 	</section>
@@ -122,10 +128,10 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The heavy coffee drink coder</h3>
+					<h3>A developer who drinks coffee</h3>
                     <h4>2005</h4>
 				</header>
-				<p>Used x-ray vision to fix Java swing code for ERP system.</p>
+				<p>Used x-ray vision to fix Java swing (coffee roots) sourcecode of an ERP system.</p>
 			</div>
 		</div>
 	</section>
@@ -133,10 +139,10 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The gamer</h3>
+					<h3>The e-gamer</h3>
                     <h4>2005</h4>
 				</header>
-				<p>Web games builder using C#, AJAX, Flash Actionscript.</p>
+				<p>Web games developer using C#, AJAX, Flash Actionscript.</p>
 			</div>
 		</div>
 	</section>
@@ -147,7 +153,7 @@ show_tile: true
 					<h3>Bug hunter</h3>
                     <h4>2004</h4>
 				</header>
-				<p>In my tool belt exist a flashlight where I use to highligh bugs for a wordwide Internet provider.</p>
+				<p>In my tool belt exist a flashlight where I used to highlight bugs for a former wordwide Internet provider.</p>
 			</div>
 		</div>
 	</section>
@@ -155,10 +161,10 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Call to IT boy</h3>
+					<h3>Classic IT boy (without braces)</h3>
                     <h4>2001</h4>
 				</header>
-				<p>Undercovered as the boy from IT department who could fix anything.</p>
+				<p>I was not part of the IT department because there was none. Lets say I was the department. I could fix anything. Life is easy and fun when you have no limits.</p>
 			</div>
 		</div>
 	</section>
