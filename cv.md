@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CV
-description: My super power is help <b>Business</b> to understand the <b>Developers</b> and facilitate developers to understand the <b>requirements</b> to build a software that matches their <u>vision</u> and <u>strategy</u>.
+description: My superpower is help <b>Business</b> to understand the <b>Developers</b> and facilitate developers to understand the <b>requirements</b> to build a software that matches their <u>vision</u> and <u>strategy</u>.
 image: null
 image_tile: assets/images/daniel/IMG_20190911_171200.jpg
 nav-menu: true
@@ -45,7 +45,7 @@ show_tile: true
                     <h4>2016 ~ present</h4>
 				</header>
 				<p>As part of the Model Risk Management squad, we develop a solution that controls and analyse the risk of a portfolio of models and regulatory documents.<br/>
-                I use my super power to gather requirements from stakeholders and transform it to be developed by in-house team.</p>
+                I use my superpower to gather requirements from stakeholders and transform it to be developed by an in-house team.</p>
 			</div>
 		</div>
 	</section>
@@ -57,7 +57,7 @@ show_tile: true
                     <h4>2015</h4>
 				</header>
 				<p>As a consultant for the Change Management Team, I worked to gather relevant requirements and facilitate the migration of the core banking system to Temenos T24 full-stack application.<br/>
-                Fires coming from everywhere but I was responding to both PM Commitee and Delivery Manager.<br/>
+                Fires coming from everywhere but I was responding to both PM Committee and Delivery Manager.<br/>
 				Happy to help the Risk team on liquidity analysis and the Consumer Finance and Mortgage teams to build their own BI reports.<br/>
                 </p>
 			</div>
@@ -96,7 +96,7 @@ show_tile: true
                     <h4>2011</h4>
 				</header>
 				<p>I worked as a Software Engineer in a startup team which became one of the fastest-growing software integration companies in Ireland in 2012.<br/>
-				Before the mainstream I used to be an IoT Developer. Firefighter, I worked on integration of 200 CCTV and fire alarms into a centralized application.</p>
+				Before the mainstream, I used to be an IoT Developer. Firefighter, I worked on the integration of 200 CCTV and fire alarms into a centralized application.</p>
 			</div>
 		</div>
 	</section>
@@ -107,7 +107,7 @@ show_tile: true
 					<h3>The 'shake it up' boy</h3>
                     <h4>2010</h4>
 				</header>
-				<p>As a consultant, my role was to improve the sales process and post-sales installations. Prepared high-level business projects focused on KPIs, milestones and RoI with prospect to sell out the company in future.<br/>
+				<p>As a consultant, my role was to improve the sales process and post-sales installations. Prepared high-level business projects focused on KPIs, milestones and RoI with the prospect to sell out the company in future.<br/>
 				Working with PowerBI and Microsoft Dynamics, for strategic analysis of issues, marketing trends, call records and competitive landscape to maximize business efficiency.</p>
 			</div>
 		</div>
@@ -119,8 +119,8 @@ show_tile: true
 					<h3>The business geek pro</h3>
                     <h4>2006</h4>
 				</header>
-				<p>IT projects can vary so my role as well. Loved challenges. From develop in Java and C# to BPM (Business Process Management) and Pre-Sales Project Manager. 
-                I have used my super powers to build a bridge between the developers and business stakeholders without compromise operations.</p>
+				<p>IT projects can vary so my role as well. Loved challenges. From developing in Java and C# to BPM (Business Process Management) and Pre-Sales Project Manager. 
+                I have used my superpowers to build a bridge between the developers and business stakeholders without compromise operations.</p>
 			</div>
 		</div>
 	</section>
@@ -153,7 +153,7 @@ show_tile: true
 					<h3>Bug hunter</h3>
                     <h4>2004</h4>
 				</header>
-				<p>In my tool belt exist a flashlight where I used to highlight bugs for a former wordwide Internet provider.</p>
+				<p>In my tool belt exist a flashlight where I used to highlight bugs for a former worldwide Internet provider.</p>
 			</div>
 		</div>
 	</section>
@@ -164,7 +164,7 @@ show_tile: true
 					<h3>Classic IT boy (without braces)</h3>
                     <h4>2001</h4>
 				</header>
-				<p>I was not part of the IT department because there was none. Lets say I was the department. I could fix anything. Life is easy and fun when you have no limits.</p>
+				<p>I was not part of the IT department because there was none. Let us say I was the department. I could fix anything. Life is easy and fun when you have no limits.</p>
 			</div>
 		</div>
 	</section>
