@@ -18,7 +18,7 @@ show_tile: true
 	    </header>
 
         <p>Thank you for your interest, if you have a project that you believe my expertise and background are appropriated, do not hesitate and contact me.<br/>
-        I can help you to use technology to make a difference on your core business. For a small or big business, websites, apps, data analysis and project management, there is no limit where we can collaborate for together create an outstanding solution.</p>
+        I can help you to use technology to make a difference in your core business. For a small or big business, websites, apps, data analysis and project management, there is no limit where we can collaborate for together create an outstanding solution.</p>
         
         <!-- Box -->
         <h2 id="content">Business Experiences:</h2>
