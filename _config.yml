@@ -1,36 +1,66 @@
-# site settings
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
 title: DanielPereira.com
-subtitle: I speak data and what do you do?
 email: dspereira@gmail.com
 description: A creative data driven Business Analyst based in Dublin.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: Dan Pereira
-street_address: null
-city: Dublin
-state: null
-zip_code: null
+city: Naas, Co. Kildare
 country: Ireland
-phone: null
-
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
+twitter_username: dspereira
+github_username:  danielpereiradotcom
 github_url: https://github.com/danielpereiradotcom
-gitlab_url: 
-googleplus_url: 
 instagram_url: https://instagram.com/dspereira
 linkedin_url: https://ie.linkedin.com/in/dspereira
-pinterest_url:
-slack_url:
 twitter_url: https://twitter.com/dspereira
 
-# build settings
-markdown: kramdown
 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
 sass:
   style: compressed
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
